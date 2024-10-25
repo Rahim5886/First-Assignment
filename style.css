@@ -1,30 +1,36 @@
 /* ========Navbar-part======== */
 /* ========Navbar-part======== */
-*{
+* {
     padding: 0px;
     margin: 0px;
 }
-.navber-main{
+
+.navber-main {
     display: flex;
-     justify-content: space-between;
-     align-items: center;
-     padding-top: 30px;
-     padding-bottom: 30px;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
 
 }
-.home-color{
+
+.home-color {
     color: orangered;
 }
-.image{
+
+.image {
     padding-left: 110px;
 
+
 }
-.Hero{
+
+.Hero {
     padding-right: 500px;
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
 }
-.manubar{
+
+.manubar {
     display: flex;
     list-style: none;
     gap: 30px;
@@ -32,137 +38,157 @@
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     cursor: pointer;
-    
+
 }
-.travel{
+
+.travel {
     padding-right: 500px;
 }
 
 /* background-image-part */
 /* background-image-part */
 
-.back-img{
+.back-img {
     background-image: url("Group\ 13\ \(1\)\ \(1\).png");
     background-repeat: no-repeat;
     background-position: center;
     height: 500px;
- 
+
 }
-.Explor{
+
+.Explor {
     text-align: center;
     padding-top: 90px;
     font-size: 40px;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
-.agency{
+
+.agency {
     text-align: center;
     color: white;
     font-size: 13px;
     font-family: Arial, Helvetica, sans-serif;
     padding-top: 15px;
 }
+
 /* ======= select-option-paty ======= */
 /* ======= select-option-paty ======= */
 
-.select-option{
+.select-option {
     text-align: center;
     padding-top: 70px;
-    
+
 }
-.were-go{
-    background-color:white;
+
+.were-go {
+    background-color: white;
     padding: 10px 30px;
-    color:black ;
+    color: black;
     border-radius: 8px;
     border: none;
     margin-right: 10px;
 }
-.when{
-    background-color:white;
+
+.when {
+    background-color: white;
     padding: 10px 30px;
-    color:black ;
+    color: black;
     border-radius: 8px;
     border: none;
     margin-right: 10px;
 
 }
-.select-Type{
-    background-color:white;
+
+.select-Type {
+    background-color: white;
     padding: 10px 30px;
-    color:black ;
+    color: black;
     border-radius: 8px;
     border: none;
     margin-right: 10px;
 }
-.Find-Now{
-    background-color:orangered;
+
+.Find-Now {
+    background-color: orangered;
     padding: 10px 30px;
-    color :white ;
+    color: white;
     border-radius: 8px;
     border: none;
     margin-right: 10px;
 }
+
 /* =====Our tours travel===== */
 /* =====Our tours travel===== */
-.popular{
-    display:flex;
+.popular {
+    display: flex;
     padding-top: 70px;
     padding-left: 110px;
     padding-right: 112px;
     padding-bottom: 70px;
 
 }
-.devision>h1{
+
+.devision>h1 {
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
     padding-bottom: 30px;
 
 }
-.devision>p{
+
+.devision>p {
     font-family: Arial, Helvetica, sans-serif;
     padding-bottom: 25px;
 }
-.gap{
+
+.gap {
     padding-bottom: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
-.gep{
+
+.gep {
     padding-bottom: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
-.gp{
+
+.gp {
     padding-bottom: 25px;
     font-family: Arial, Helvetica, sans-serif;
 }
-.unoder{
+
+.unoder {
     margin-left: 20px;
 }
- .Read{
+
+.Read {
     padding: 8px 30px;
     background-color: orangered;
     color: white;
     border: none;
     border-radius: 10px;
- }
- /* ======choose your destination===== */
- /* ======choose your destination===== */
- 
+}
+
+/* ======choose your destination===== */
+/* ======choose your destination===== */
 
 
- /* ======why choose us====== */
- /* ======why choose us====== */
-  .all-box{
+
+/* ======why choose us====== */
+/* ======why choose us====== */
+.all-box {
     padding-left: 110px;
     padding-right: 110px;
     padding-top: 50px;
     padding-bottom: 70px;
     display: flex;
+    justify-content: center;
      
-     
-    
-  }
-  .single-box{
+
+
+
+}
+
+.single-box {
     border: 1px solid black;
     border-radius: 20px;
     background-color: rgb(215, 245, 250);
@@ -172,74 +198,93 @@
     height: 300px;
     border: none;
     text-align: left;
-    
-  }
-  .discound{
+
+}
+
+.discound {
     height: 80px;
     width: 80px;
-  }
-  .map{
+    padding-top: 30px;
+     
+}
+
+.map {
     height: 70px;
-    width:  70px; 
+    width: 70px;
+    padding-top: 30px;
 
 
-  }
-  .hotel{
+}
+
+.hotel {
     height: 80px;
     width: 80px;
-  }
-  .single-box>h1{
+    padding-top: 30px;
+}
+
+.single-box>h1 {
     font-family: Arial, Helvetica, sans-serif;
-    padding-bottom: 30px;
-  }
-  .choose{
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.choose {
     text-align: center;
-  }
-  .choose>h1{
+}
+
+.choose>h1 {
     font-family: Arial, Helvetica, sans-serif;
     padding-bottom: 25px;
-  }
-.choose>p{
-    font-family: Arial, Helvetica, sans-serif;
-}
-/* ====deals & discounts==== */
-/* ====deasl & discounts==== */
-.Discounts{
-    margin-left: 110px;
-    margin-right:110px;
-    margin-bottom: 70px;
 }
 
-.deals{
-    text-align: center;
+.choose>p {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ====deals & discounts==== */
+/* ====deasl & discounts==== */
+.Discounts {
+    margin-left: 110px;
+    margin-right: 110px;
+    margin-bottom: 70px;
     
 }
-.hello{
+
+.deals {
+    text-align: center;
+
+}
+
+.hello {
     font-family: Arial, Helvetica, sans-serif;
     padding-bottom: 25px;
     font-size: 30px;
 }
-.para{
+
+.para {
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
     padding-bottom: 30px;
 }
 
-.discount1{
-    background-image:url("Group\ 39.png");
+.discount1 {
+    background-image: url("Group\ 39.png");
     background-repeat: no-repeat;
     background-position: center;
     border-radius: 20px;
     height: 500px;
     display: flex;
-     
-    
+
+
 }
+
 /* =====First Photo====== */
 /* =====First Photo====== */
- #offer{
-    
-    color:  black;
+#offer {
+
+    color: black;
     text-align: center;
     justify-content: center;
     border: 1px solid black;
@@ -250,11 +295,11 @@
     margin-top: 100px;
     background-color: rgb(254, 252, 250);
     margin-right: 40px;
-     
 
- }
 
-.second-pic{
+}
+
+.second-pic {
     background-image: url("Group\ 40.png");
     background-repeat: no-repeat;
     background-position: center;
@@ -263,37 +308,43 @@
     border-radius: 10px;
     border: none;
 }
-.book{
+
+.book {
     padding: 8px 30px;
     background-color: orangered;
     color: white;
     border: none;
-    margin-top:10px;
+    margin-top: 10px;
     border-radius: 10px;
 }
-.lorem{
+
+.lorem {
     font-size: 13px;
     font-family: Arial, Helvetica, sans-serif;
     padding-top: 10px;
 }
-.about{
+
+.about {
     text-align: center;
     padding-top: 10px;
     text-transform: lowercase;
 }
-.price{
+
+.price {
     color: orangered;
     padding-top: 10px;
 }
-.Satorini{
-    padding-top: 30px ;
+
+.Satorini {
+    padding-top: 30px;
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
 /* ======second photo======= */
 /* ======second photo======= */
-#opacity{
-    color:  black;
+#opacity {
+    color: black;
     text-align: center;
     justify-content: center;
     border: 1px solid black;
@@ -305,107 +356,172 @@
     background-color: rgb(250, 249, 247);
     margin-left: 40px;
     border-radius: 10px;
-    border:  none;
+    border: none;
 
 }
-.of-tour{
-    padding-top: 30px ;
+
+.of-tour {
+    padding-top: 30px;
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
 }
- .contact{
+
+.contact {
     text-align: center;
     padding-top: 10px;
     text-transform: lowercase;
- }
- .muslo{
+}
+
+.muslo {
     color: orangered;
     padding-top: 10px;
- }
- .gress{
+}
+
+.gress {
     font-size: 13px;
     font-family: Arial, Helvetica, sans-serif;
     padding-top: 10px;
- }
- .Now{
+}
+
+.Now {
     padding: 8px 30px;
     background-color: orangered;
     color: white;
     border: none;
-    margin-top:10px;
+    margin-top: 10px;
     border-radius: 10px;
- }
-/* ======Third photo========= */
-/* ======Third photo========= */
- 
+}
 
-.Threed{
+/* ======Third photo========= */
+/* ======Third photo========= */
+
+
+.Threed {
     background-image: url("Group\ 39.png");
     background-position: center;
     background-repeat: no-repeat;
     height: 500px;
     margin-top: 60px;
-   padding-top: 50px;
+     padding-top: 50px;
     padding-bottom: 50px;
     border-radius: 10px;
     border: none;
-    
-    
+
+
 }
-.package{
+
+.package {
     margin-left: 500px;
     padding: 9px 39px;
     background-color: orangered;
     border: none;
-    color: white;
+    color: rgb(248, 242, 242);
     border-radius: 10px;
-    margin-bottom: 50px;
-    border-radius: 10px;
-    border-radius: 10px;
+    margin-top: 20px;
+   
 }
+   
 
 /* ======== */
 /* ======== */
 
-.perfect-us{
+.perfect-us {
     margin-left: 110px;
     margin-right: 110px;
     margin-bottom: 30px;
 }
-.main-pareant{
+
+.main-pareant {
     display: flex;
+    width: 83%;
 }
-.Childern>h1{
+.video-secction{
+    display: flex;
+     justify-content: center;
+}
+
+.Childern>h1 {
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
     padding-bottom: 20px;
 }
-.Childern>p{
+
+.Childern>p {
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
     padding-bottom: 17px;
 }
-.sub-children{
+
+.sub-children {
     padding-left: 20px;
 }
-.ul{
+
+.ul {
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
     padding-bottom: 17px;
 }
-.li{
+
+.li {
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
     padding-bottom: 17px;
 }
-.More{
+
+.More {
     padding: 8px 30px;
     background-color: orangered;
     color: white;
     border-radius: 10px;
     border: none;
 }
-.video{
+
+.video {
     border-radius: 10px;
     margin-bottom: 60px;
+
 }
+
+.hello {
+    margin-left: 110px;
+    margin-right: 110px;
+
+}
+
+.divesion {
+    display: flex;
+}
+
+
+/* footer */
+
+ .footer{
+    height: 500px;
+    background-color:rgb(237, 243, 240);
+    padding-top: 100px;
+    padding-left: 310px;
+    padding-right: 310px;
+      
+ } 
+ .paragraph{
+    text-align: center;
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .fgti{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 50px;
+     
+ }
+ .hi-rafarence{
+   border: 1px solid black;
+   width: 100%;
+   text-align: center;
+   
+ }
+ .end{
+    padding-top: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+ }
