@@ -135,4 +135,50 @@
 .unoder{
     margin-left: 20px;
 }
+ .Read{
+    padding: 8px 30px;
+    background-color: orangered;
+    color: white;
+    border: none;
+    border-radius: 10px;
+ }
+
+ /* ===choose your destination==== */
+
+ #destination{
+padding-left: 110px;
+padding-right: 112px;
+ }
+
+ .choose{
+    text-align: center;
+    
+ }
+ .choose>h1{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 20px;
+   
+ }
+ .choose>p{
+    font-family: Arial, Helvetica, sans-serif;
+   
+ }
+
+ /* img part */
+   .malaya{
+ 
+ 
+ }
+ .Maldives{
+    background-image: url("Rectangle\ 5.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+ }
+ 
+
+ /* ======why choose us====== */
+ /* ======why choose us====== */
+
  
