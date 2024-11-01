@@ -248,7 +248,7 @@
     margin-left: 800px;
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 100px;
-    background-color: antiquewhite;
+    background-color: rgb(254, 252, 250);
     margin-right: 40px;
      
 
@@ -260,6 +260,8 @@
     background-position: center;
     height: 500px;
     padding-top: 50px;
+    border-radius: 10px;
+    border: none;
 }
 .book{
     padding: 8px 30px;
@@ -267,6 +269,7 @@
     color: white;
     border: none;
     margin-top:10px;
+    border-radius: 10px;
 }
 .lorem{
     font-size: 13px;
@@ -299,9 +302,10 @@
     margin-right: 800px;
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 80px;
-    background-color: antiquewhite;
+    background-color: rgb(250, 249, 247);
     margin-left: 40px;
-    
+    border-radius: 10px;
+    border:  none;
 
 }
 .of-tour{
@@ -329,6 +333,7 @@
     color: white;
     border: none;
     margin-top:10px;
+    border-radius: 10px;
  }
 /* ======Third photo========= */
 /* ======Third photo========= */
@@ -342,7 +347,65 @@
     margin-top: 60px;
    padding-top: 50px;
     padding-bottom: 50px;
+    border-radius: 10px;
+    border: none;
     
     
 }
+.package{
+    margin-left: 500px;
+    padding: 9px 39px;
+    background-color: orangered;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    border-radius: 10px;
+}
 
+/* ======== */
+/* ======== */
+
+.perfect-us{
+    margin-left: 110px;
+    margin-right: 110px;
+    margin-bottom: 30px;
+}
+.main-pareant{
+    display: flex;
+}
+.Childern>h1{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 20px;
+}
+.Childern>p{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 17px;
+}
+.sub-children{
+    padding-left: 20px;
+}
+.ul{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 17px;
+}
+.li{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 17px;
+}
+.More{
+    padding: 8px 30px;
+    background-color: orangered;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+.video{
+    border-radius: 10px;
+    margin-bottom: 60px;
+}
