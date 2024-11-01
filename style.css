@@ -1,0 +1,138 @@
+/* ========Navbar-part======== */
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.navber-main{
+    display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding-top: 30px;
+     padding-bottom: 30px;
+
+}
+.home-color{
+    color: orangered;
+}
+.image{
+    padding-left: 110px;
+
+}
+.Hero{
+    padding-right: 500px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.manubar{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    padding-right: 120px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    
+}
+.travel{
+    padding-right: 500px;
+}
+
+/* background-image-part */
+
+.back-img{
+    background-image: url("Group\ 13\ \(1\)\ \(1\).png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+ 
+}
+.Explor{
+    text-align: center;
+    padding-top: 90px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.agency{
+    text-align: center;
+    color: white;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 15px;
+}
+/* ======= select-option-paty ======= */
+
+.select-option{
+    text-align: center;
+    padding-top: 70px;
+    
+}
+.were-go{
+    background-color:white;
+    padding: 10px 30px;
+    color:black ;
+    border-radius: 8px;
+    border: none;
+    margin-right: 10px;
+}
+.when{
+    background-color:white;
+    padding: 10px 30px;
+    color:black ;
+    border-radius: 8px;
+    border: none;
+    margin-right: 10px;
+
+}
+.select-Type{
+    background-color:white;
+    padding: 10px 30px;
+    color:black ;
+    border-radius: 8px;
+    border: none;
+    margin-right: 10px;
+}
+.Find-Now{
+    background-color:orangered;
+    padding: 10px 30px;
+    color :white ;
+    border-radius: 8px;
+    border: none;
+    margin-right: 10px;
+}
+/* =====Our tours travel===== */
+/* =====Our tours travel===== */
+.popular{
+    display:flex;
+    padding-top: 70px;
+    padding-left: 110px;
+    padding-right: 112px;
+    padding-bottom: 70px;
+
+}
+.devision>h1{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 30px;
+
+}
+.devision>p{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 25px;
+}
+.gap{
+    padding-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.gep{
+    padding-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.gp{
+    padding-bottom: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.unoder{
+    margin-left: 20px;
+}
+ 
